@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+<style>
+	g path { stroke: none; }
+	g line { stroke: black; }
+	g circle { stroke: black; }
+	g polyline { stroke: black; }
+</style>
+<g class="root" id="treatment" data-name="treatment">
+	<path d="M24.54 36h-13.08v-11.46h-11.46v-13.061h11.46v-11.479h13.08v11.479h11.46v13.061h-11.46v11.46Zm-11.479-1.601h9.878v-11.46h11.46v-9.878h-11.46v-11.46h-9.878v11.46h-11.46v9.878h11.46v11.46Z" />
+</g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+<style>
+	g path { stroke: none; }
+	g line { stroke: black; }
+	g circle { stroke: black; }
+	g polyline { stroke: black; }
+</style>
+<g class="root" id="search_mob" data-name="search-mob">
+	<path d="M32.979 35.994h-0.091l-9.49-9.603l-0.815 0.566a14.214 14.214 0 0 1-7.882 2.401h-0.136a14.685 14.685 0 0 1-10.35-24.981a14.457 14.457 0 0 1 10.282-4.371h0.091a14.674 14.674 0 0 1 14.563 14.586a15.089 15.089 0 0 1-2.152 7.768l-0.498 0.815l9.49 9.626a1.037 1.037 0 0 1-0.453 0.997l-0.091 0.068l-1.54 1.563l-0.068 0.113A1.006 1.006-5533.919 0 1 32.979 35.994Zm-18.436-33.044a11.777 11.777 0 1 0 8.403 20.044a11.777 11.777 0 0 0-8.289-20.044h-0.113Z" />
+</g>
+</svg>

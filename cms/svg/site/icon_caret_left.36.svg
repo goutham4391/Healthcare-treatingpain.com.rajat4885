@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+<style>
+	g path { stroke: none; }
+	g line { stroke: black; }
+	g circle { stroke: black; }
+	g polyline { stroke: black; }
+</style>
+<g class="root" id="caret_left" data-name="caret_left">
+	<path d="M8.54 16.434c-0.861 0.861-0.861 2.244 0 3.079l0 0l15.841 15.841c0.861 0.861 2.244 0.861 3.079 0c0.861-0.861 0.861-2.244 0-3.079l-14.275-14.275l14.275-14.275c0.861-0.861 0.861-2.244 0-3.079c-0.861-0.861-2.244-0.861-3.079 0l0 0L8.54 16.434z" />
+</g>
+</svg>
